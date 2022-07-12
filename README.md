@@ -163,4 +163,4 @@ python main.py \
 
 ### References
 
-[1] Xiang Xiang, Yuwen Tan, Qian Wan, Jing Ma, Alan Yuille, Gregory Hager, Coarse-To-Fine Incremental Few-Shot Learning. Accepted to ECCV 2022. https://arxiv.org/abs/2111.14806
+[1] Xiang Xiang, Yuwen Tan, Qian Wan, Jing Ma, Alan L. Yuille, Gregory D. Hager: Coarse-To-Fine Incremental Few-Shot Learning. To appear at ECCV 2022. https://arxiv.org/abs/2111.14806
