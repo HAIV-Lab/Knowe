@@ -165,5 +165,6 @@ python main.py \
 
 [1] Xiang Xiang, Yuwen Tan, Qian Wan, Jing Ma, Alan L. Yuille, Gregory D. Hager: Coarse-To-Fine Incremental Few-Shot Learning. To appear at ECCV 2022.  https://link.springer.com/chapter/10.1007/978-3-031-19821-2_12 or https://arxiv.org/abs/2111.14806
 
-Cite this paper
+Cite this paper as
+
 Xiang, X., Tan, Y., Wan, Q., Ma, J., Yuille, A., Hager, G.D. (2022). Coarse-To-Fine Incremental Few-Shot Learning. In: Avidan, S., Brostow, G., Cissé, M., Farinella, G.M., Hassner, T. (eds) Computer Vision – ECCV 2022. ECCV 2022. Lecture Notes in Computer Science, vol 13691. Springer, Cham. https://doi.org/10.1007/978-3-031-19821-2_12
